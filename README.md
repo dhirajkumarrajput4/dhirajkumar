@@ -42,7 +42,7 @@
 
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 
-<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20boot-black?style=for-the-badge&logo=springboot&logoColor=white%22%20height=%2225px%22"/>
 
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
 
