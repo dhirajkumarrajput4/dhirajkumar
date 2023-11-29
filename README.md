@@ -79,8 +79,11 @@
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
 
 <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
-
-<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+<img alt="intelliJidea" src="https://img.shields.io/badge/hibernate-black?style=for-the-badge&logo=intellijidea&logoColor=greed%22%20height=%2225px%22"/>
+<img alt="vscode" src="https://img.shields.io/badge/vsCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue height=%2225px%22"/>
+<img alt="spring tools" src="https://img.shields.io/badge/Spring%20tools-black?style=for-the-badge&logo=spring&logoColor=%22blue%22%20height=%2225px%22"/>
+<img alt="my sql" src="https://img.shields.io/badge/my%20sql-white?style=for-the-badge&logo=mysql&logoColor=%22blue%22%20height=%2225px%22"/>
+<img alt="postgresql" src="https://img.shields.io/badge/postgresql-orange?style=for-the-badge&logo=postgresql&logoColor=%22blue%22%20height=%2225px%22"/>
 </p>
 
 <div align="left">
